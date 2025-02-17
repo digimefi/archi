@@ -28,3 +28,15 @@ Lisää avain ~/.ssh kansioon josta Archi voi lukea useamman projektin tiedot:
 tai aseta ssh avain suoraan (Jos digime on ainut githubiin kytketty Archi projekti):
 **Settings**->**Collaboration**->**Identity file**
 
+## 5. Collaboration lisäosan käyttö
+
+Projektin lisääminen:
+**Collaboration**->**Import Remote model to Workspace**
+
+**Lisää URL kenttään:** ```git@github.com:digimefi/archi.git```
+
+**Refresh model** -> Lataa viimeisimmän version githubista
+**Commit changes**  -> Päivittää viimeisimmät muutokset omalle koneelle
+**Publish changes** -> Julkaisee tekemäsi muutokset githubiin
+
+
