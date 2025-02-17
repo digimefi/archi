@@ -22,6 +22,7 @@ Lisää avain Archi repositorion Deploy avaimeksi:
 
 Lisää avain ~/.ssh kansioon josta Archi voi lukea useamman projektin tiedot:
 **Settings**->**Collaboration**->**Scan .ssh folder**
+
 tai aseta ssh avain suoraan (Jos digime on ainut githubiin kytketty Archi projekti):
 **Settings**->**Collaboration**->**Identity file**
 
