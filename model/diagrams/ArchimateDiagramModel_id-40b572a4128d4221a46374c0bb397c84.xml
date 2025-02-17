@@ -7,7 +7,7 @@
       xsi:type="archimate:DiagramModelReference"
       id="id-02f2e542d7c24dd9895d8820b7829ae9">
     <bounds
-        x="180"
+        x="312"
         y="240"
         width="120"
         height="55"/>
@@ -19,8 +19,8 @@
       xsi:type="archimate:DiagramModelReference"
       id="id-c53da0920af3412eb5e8c1ac08daac98">
     <bounds
-        x="336"
-        y="240"
+        x="239"
+        y="336"
         width="120"
         height="55"/>
     <referencedModel
@@ -31,12 +31,48 @@
       xsi:type="archimate:DiagramModelReference"
       id="id-76d66554623a41a897b59b3fa4fe84ea">
     <bounds
-        x="492"
-        y="240"
+        x="371"
+        y="336"
         width="156"
         height="55"/>
     <referencedModel
         xsi:type="archimate:ArchimateDiagramModel"
         href="ArchimateDiagramModel_id-e737c5098c934433bc07f93247ec93cd.xml#id-e737c5098c934433bc07f93247ec93cd"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-18b54473829d46f3b7b49de0416a1fbb">
+    <bounds
+        x="156"
+        y="240"
+        width="138"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-47af1952a47f4a66a3500c67b766c5c3.xml#id-47af1952a47f4a66a3500c67b766c5c3"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-b1aec2451a5c479882c6cc5100b6bec7">
+    <bounds
+        x="240"
+        y="132"
+        width="120"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-69db7756ded34187a917bb86837c8dfb.xml#id-69db7756ded34187a917bb86837c8dfb"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-133495881c5c4f1c91531d6ef5393312">
+    <bounds
+        x="107"
+        y="336"
+        width="120"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-3f33333f567347fea7d5e5116e27ccc4.xml#id-3f33333f567347fea7d5e5116e27ccc4"/>
   </children>
 </archimate:ArchimateDiagramModel>

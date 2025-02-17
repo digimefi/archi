@@ -1,0 +1,30 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Metamallit"
+    id="id-69db7756ded34187a917bb86837c8dfb">
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-03fe4fa2bc194c5aa86525f0dbc4ef31">
+    <bounds
+        x="180"
+        y="324"
+        width="120"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-4d4ff5504a904b0f9c25e82b41bf1c23.xml#id-4d4ff5504a904b0f9c25e82b41bf1c23"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-c37bf3bac6b446c4b85d4994d2652a8a">
+    <bounds
+        x="348"
+        y="324"
+        width="145"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-243f46b784f046ae9f0cb33d938dacaf.xml#id-243f46b784f046ae9f0cb33d938dacaf"/>
+  </children>
+</archimate:ArchimateDiagramModel>

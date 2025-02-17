@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Lainsäädäntö ja toimijat"
+    name="Lainsäädäntö"
     id="id-47af1952a47f4a66a3500c67b766c5c3">
   <children
       xsi:type="archimate:DiagramModelReference"
@@ -31,8 +31,8 @@
       xsi:type="archimate:DiagramModelReference"
       id="id-2718388990a24d05915cf69a306053e8">
     <bounds
-        x="728"
-        y="936"
+        x="836"
+        y="858"
         width="413"
         height="55"/>
     <referencedModel
@@ -67,8 +67,8 @@
       xsi:type="archimate:DiagramModelReference"
       id="id-cb08f00119b54267bd69f7a3434771d8">
     <bounds
-        x="756"
-        y="768"
+        x="840"
+        y="696"
         width="338"
         height="55"/>
     <referencedModel
@@ -79,8 +79,8 @@
       xsi:type="archimate:DiagramModelReference"
       id="id-e30630191d554adc9ef88de620a3539a">
     <bounds
-        x="732"
-        y="852"
+        x="840"
+        y="780"
         width="405"
         height="55"/>
     <referencedModel
@@ -103,8 +103,8 @@
       xsi:type="archimate:DiagramModelReference"
       id="id-90b0e35ef8e74998a51b18c3ff960b5e">
     <bounds
-        x="192"
-        y="816"
+        x="216"
+        y="714"
         width="230"
         height="55"/>
     <referencedModel
@@ -163,8 +163,8 @@
       xsi:type="archimate:DiagramModelReference"
       id="id-a251387321b4465db45a89e31878da07">
     <bounds
-        x="192"
-        y="906"
+        x="216"
+        y="804"
         width="349"
         height="55"/>
     <referencedModel
