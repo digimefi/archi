@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Vuorovaikutuskaavio"
+    name="Vuorovaikutukset"
     id="id-e737c5098c934433bc07f93247ec93cd">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
