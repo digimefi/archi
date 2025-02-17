@@ -2,6 +2,8 @@
 
 # Käyttöönotto
 
+Digime viitarkkitehtuurin kehittäminen edellyttää [Archi](https://www.archimatetool.com) ohjelman ja [coArchi](https://www.archimatetool.com/plugins/) lisäosan asentamista, [Github](https://github.com/) tunnuksien luomista ja asetuksien konfigurointia. Viralliset [asennusohjeet](https://github.com/archimatetool/archi-modelrepository-plugin/wiki) ovat osin vanhentuneet, mutta niistä saa kuitenkin viitteellistä tietoa järjestelmän yleisestä toiminnasta.
+
 ## 1. Pyydä käyttöoikeudet digimefi organisaatioon
 
 Pyydä käyttöoikeudet Github tunnuksillesi lähettämällä [liittymispyynnön](https://github.com/orgs/digimefi/discussions/categories/request-access) keskustelualustalle. 
