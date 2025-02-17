@@ -36,7 +36,9 @@ Projektin lisääminen:
 **Lisää URL kenttään:** ```git@github.com:digimefi/archi.git```
 
 **Refresh model** -> Lataa viimeisimmän version githubista
+
 **Commit changes**  -> Päivittää viimeisimmät muutokset omalle koneelle
+
 **Publish changes** -> Julkaisee tekemäsi muutokset githubiin
 
 
