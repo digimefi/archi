@@ -13,7 +13,7 @@ Avaimen luonti:
 
 Katso [lisäohjeita](https://github.com/archimatetool/archi-modelrepository-plugin/wiki/SSH-Authentication)
   
-## 3. Lisää ssh-avain repositorion Deploy key
+## 3. Lisää ssh-avain githubiin
 
 Lisää avain Archi repositorion Deploy avaimeksi:
 **Settings**->**Deploy keys**->**Add deploy key**
