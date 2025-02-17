@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kuvailutietoja (LOD)"
+    id="id-948af634e5ec4536bff7472b834a3b19">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-a349215e5d234ba2b1f5d94aa6b652eb.xml#id-a349215e5d234ba2b1f5d94aa6b652eb"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-b369663ec2114777839893b49207d643.xml#id-b369663ec2114777839893b49207d643"/>
+</archimate:FlowRelationship>

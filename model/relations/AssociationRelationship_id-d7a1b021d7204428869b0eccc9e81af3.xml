@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Liittyy"
+    id="id-d7a1b021d7204428869b0eccc9e81af3"
+    directed="true">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-b364a76f5949424baf11da4f40609054.xml#id-b364a76f5949424baf11da4f40609054"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-626ccd34446345318a9d12dac9173071.xml#id-626ccd34446345318a9d12dac9173071"/>
+</archimate:AssociationRelationship>

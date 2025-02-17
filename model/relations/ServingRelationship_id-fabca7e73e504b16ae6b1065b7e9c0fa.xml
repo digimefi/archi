@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="mahdollistaa"
+    id="id-fabca7e73e504b16ae6b1065b7e9c0fa">
+  <source
+      xsi:type="archimate:BusinessCollaboration"
+      href="BusinessCollaboration_id-8f08abf7042a413e8edbe1247537151a.xml#id-8f08abf7042a413e8edbe1247537151a"/>
+  <target
+      xsi:type="archimate:BusinessCollaboration"
+      href="BusinessCollaboration_id-85cb668cd865439fa339855ccb56bda0.xml#id-85cb668cd865439fa339855ccb56bda0"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Voi tehdä ehdotuksen"
+    id="id-1869b31ff1b147529308c815bb0b9e74">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-9ff82e7ee770495bbd33ae8238c82199.xml#id-9ff82e7ee770495bbd33ae8238c82199"/>
+  <target
+      xsi:type="archimate:CourseOfAction"
+      href="CourseOfAction_id-a9ff3d961eb4447983711c1c60a1eacf.xml#id-a9ff3d961eb4447983711c1c60a1eacf"/>
+</archimate:RealizationRelationship>

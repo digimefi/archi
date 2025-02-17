@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="useita"
+    id="id-4793d5d0fc5044c7884b049557862d58"
+    directed="true">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-711db8892fb242f99f6ece57190743c6.xml#id-711db8892fb242f99f6ece57190743c6"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-170fb59d0c51461192ccdd87836df539.xml#id-170fb59d0c51461192ccdd87836df539"/>
+</archimate:AssociationRelationship>

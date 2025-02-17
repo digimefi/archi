@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="suorittaa"
+    id="id-d08d79b6ce234c74b9f18cbfa0408821"
+    directed="true">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-270169d42bfc4c1c832758e584bc9739.xml#id-270169d42bfc4c1c832758e584bc9739"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-297ce43981c24960bf6622cd25e740e5.xml#id-297ce43981c24960bf6622cd25e740e5"/>
+</archimate:AssociationRelationship>

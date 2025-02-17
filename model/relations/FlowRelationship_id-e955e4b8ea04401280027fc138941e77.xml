@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Teosten kuvailutiedot"
+    id="id-e955e4b8ea04401280027fc138941e77">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-09e5f04ece144225bf9a5112ea2c6034.xml#id-09e5f04ece144225bf9a5112ea2c6034"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-d1a050b761034d33861d9491f6996551.xml#id-d1a050b761034d33861d9491f6996551"/>
+</archimate:FlowRelationship>

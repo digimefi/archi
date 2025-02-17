@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Käyttää"
+    id="id-fa18aa3eea284eb09c820f5977ed6c5b">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-9b254590102d4267bc83622899ed97cf.xml#id-9b254590102d4267bc83622899ed97cf"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-b27480b9421045ae81d33f57b86fe214.xml#id-b27480b9421045ae81d33f57b86fe214"/>
+</archimate:ServingRelationship>

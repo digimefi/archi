@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Valvoo"
+    id="id-5d90594e60cb4ff7b468cc0ec97ba661">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-2cac1cda48664ec98de00dc4184456a6.xml#id-2cac1cda48664ec98de00dc4184456a6"/>
+  <target
+      xsi:type="archimate:CourseOfAction"
+      href="CourseOfAction_id-cfbecf47fe9648549474720cc0b0f840.xml#id-cfbecf47fe9648549474720cc0b0f840"/>
+</archimate:RealizationRelationship>

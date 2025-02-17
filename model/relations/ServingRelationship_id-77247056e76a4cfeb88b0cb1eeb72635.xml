@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uusien aineistojen kehittäminen"
+    id="id-77247056e76a4cfeb88b0cb1eeb72635">
+  <source
+      xsi:type="archimate:ValueStream"
+      href="ValueStream_id-fc2eebcb95b54ebf9a2833bdaebc38f0.xml#id-fc2eebcb95b54ebf9a2833bdaebc38f0"/>
+  <target
+      xsi:type="archimate:ValueStream"
+      href="ValueStream_id-228c4cdb37704537be45eab59e85ada5.xml#id-228c4cdb37704537be45eab59e85ada5"/>
+</archimate:ServingRelationship>

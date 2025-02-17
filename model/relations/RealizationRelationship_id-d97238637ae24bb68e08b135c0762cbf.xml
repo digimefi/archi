@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lunastaa tai palauttaa löytäjälle"
+    id="id-d97238637ae24bb68e08b135c0762cbf">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-a0541e350aa3478e9670836cfaac0035.xml#id-a0541e350aa3478e9670836cfaac0035"/>
+  <target
+      xsi:type="archimate:CourseOfAction"
+      href="CourseOfAction_id-2efc34ddeca7481e91ae00be3e69b49c.xml#id-2efc34ddeca7481e91ae00be3e69b49c"/>
+</archimate:RealizationRelationship>

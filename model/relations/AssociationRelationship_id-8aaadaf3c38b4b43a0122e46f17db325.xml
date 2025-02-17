@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="voi viitata"
+    id="id-8aaadaf3c38b4b43a0122e46f17db325"
+    directed="true">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-170fb59d0c51461192ccdd87836df539.xml#id-170fb59d0c51461192ccdd87836df539"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-ed6b672fb815448b83518f8264e5fed5.xml#id-ed6b672fb815448b83518f8264e5fed5"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,12 @@
+<archimate:SpecializationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SaaS palvelu"
+    id="id-b50ce427fa9540ef990fb9732746f734">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-8a3d36f422314ec9bc2e7a78578ef1d6.xml#id-8a3d36f422314ec9bc2e7a78578ef1d6"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-6fa62426fcb24586a5cc211e856c989c.xml#id-6fa62426fcb24586a5cc211e856c989c"/>
+</archimate:SpecializationRelationship>

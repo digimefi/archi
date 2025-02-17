@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="tekninen tuki"
+    id="id-2626f70fc3e8430fae8b618b7b031d4b">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-46989a99983f4b72a2f6c58db52d8360.xml#id-46989a99983f4b72a2f6c58db52d8360"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-d97f704132614d48b9a3aa549a19b9e4.xml#id-d97f704132614d48b9a3aa549a19b9e4"/>
+</archimate:ServingRelationship>

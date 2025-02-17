@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Arvio vaikutuksista"
+    id="id-82c846e519aa45ba92f8cbb3b3962ffc">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-62b9b5728f9440f5a31a5c04f2201e80.xml#id-62b9b5728f9440f5a31a5c04f2201e80"/>
+  <target
+      xsi:type="archimate:CourseOfAction"
+      href="CourseOfAction_id-babf88c9bdf043a7b5b67bfac1d0c3fc.xml#id-babf88c9bdf043a7b5b67bfac1d0c3fc"/>
+</archimate:RealizationRelationship>

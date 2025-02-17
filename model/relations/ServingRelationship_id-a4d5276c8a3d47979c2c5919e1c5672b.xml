@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ohjaa ja tukee"
+    id="id-a4d5276c8a3d47979c2c5919e1c5672b">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-03f1f202a0f24290b3c4bce024b2dbf1.xml#id-03f1f202a0f24290b3c4bce024b2dbf1"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-46989a99983f4b72a2f6c58db52d8360.xml#id-46989a99983f4b72a2f6c58db52d8360"/>
+</archimate:ServingRelationship>

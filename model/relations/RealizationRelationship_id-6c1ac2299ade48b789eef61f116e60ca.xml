@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kehittää ja ohjaa"
+    id="id-6c1ac2299ade48b789eef61f116e60ca">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-f3ef225692894d079d9f4dcc856357e9.xml#id-f3ef225692894d079d9f4dcc856357e9"/>
+  <target
+      xsi:type="archimate:CourseOfAction"
+      href="CourseOfAction_id-cfbecf47fe9648549474720cc0b0f840.xml#id-cfbecf47fe9648549474720cc0b0f840"/>
+</archimate:RealizationRelationship>

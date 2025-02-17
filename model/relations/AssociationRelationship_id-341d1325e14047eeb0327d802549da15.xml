@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Luetteloidaan"
+    id="id-341d1325e14047eeb0327d802549da15"
+    directed="true">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-27635280c5e14c468c6d518c3e7b4f4b.xml#id-27635280c5e14c468c6d518c3e7b4f4b"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-626ccd34446345318a9d12dac9173071.xml#id-626ccd34446345318a9d12dac9173071"/>
+</archimate:AssociationRelationship>

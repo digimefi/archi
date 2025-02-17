@@ -1,0 +1,12 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Toimii"
+    id="id-e899a80c1aaf41c58da5c1a7f57ce6ca">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-9b254590102d4267bc83622899ed97cf.xml#id-9b254590102d4267bc83622899ed97cf"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-2f95f86c47c249b2b637f5779c81e936.xml#id-2f95f86c47c249b2b637f5779c81e936"/>
+</archimate:AssignmentRelationship>

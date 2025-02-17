@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="osallistuu"
+    id="id-cf367d2efce14cb09def6a403ed8c488">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-16668215576642cb8ed0564091c9e188.xml#id-16668215576642cb8ed0564091c9e188"/>
+  <target
+      xsi:type="archimate:BusinessCollaboration"
+      href="BusinessCollaboration_id-1882fb38ab024119be451e948c265005.xml#id-1882fb38ab024119be451e948c265005"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Voi hakea"
+    id="id-31d1775a2e124a74bb7eec0efecceb3f">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-9ff82e7ee770495bbd33ae8238c82199.xml#id-9ff82e7ee770495bbd33ae8238c82199"/>
+  <target
+      xsi:type="archimate:CourseOfAction"
+      href="CourseOfAction_id-cbaf0673446a4c11b538d860f2c4f759.xml#id-cbaf0673446a4c11b538d860f2c4f759"/>
+</archimate:RealizationRelationship>

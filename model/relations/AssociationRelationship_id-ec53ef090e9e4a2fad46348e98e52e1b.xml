@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ryhmittelee"
+    id="id-ec53ef090e9e4a2fad46348e98e52e1b"
+    directed="true">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-15599d560fa94852ae095753abd2c753.xml#id-15599d560fa94852ae095753abd2c753"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-711db8892fb242f99f6ece57190743c6.xml#id-711db8892fb242f99f6ece57190743c6"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Luo"
+    id="id-b64172cf879047fdb4bf9f5d7234b09f"
+    directed="true">
+  <source
+      xsi:type="archimate:BusinessCollaboration"
+      href="BusinessCollaboration_id-1882fb38ab024119be451e948c265005.xml#id-1882fb38ab024119be451e948c265005"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-6a01d536d17b4194b073bca1917a424e.xml#id-6a01d536d17b4194b073bca1917a424e"/>
+</archimate:AssociationRelationship>

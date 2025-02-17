@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mahdollistaa"
+    id="id-ba34dbf6faa649b997a25ae317232877">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-55f2dbf1908b42189139c55925f1a6ab.xml#id-55f2dbf1908b42189139c55925f1a6ab"/>
+  <target
+      xsi:type="archimate:ValueStream"
+      href="ValueStream_id-71e7cb6caf864039b0e8824ca5b45c77.xml#id-71e7cb6caf864039b0e8824ca5b45c77"/>
+</archimate:RealizationRelationship>

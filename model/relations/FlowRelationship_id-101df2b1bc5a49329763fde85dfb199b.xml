@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sanastot, ontologiat ja toimijatiedot"
+    id="id-101df2b1bc5a49329763fde85dfb199b">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-e7e72f3fc4cd4fdc90eb54e2e775cc19.xml#id-e7e72f3fc4cd4fdc90eb54e2e775cc19"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-d1a050b761034d33861d9491f6996551.xml#id-d1a050b761034d33861d9491f6996551"/>
+</archimate:FlowRelationship>

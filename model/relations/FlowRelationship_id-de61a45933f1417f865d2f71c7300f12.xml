@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Annotointi"
+    id="id-de61a45933f1417f865d2f71c7300f12">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-6464650f47b94af7a9aff2d1421cee87.xml#id-6464650f47b94af7a9aff2d1421cee87"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-d1a050b761034d33861d9491f6996551.xml#id-d1a050b761034d33861d9491f6996551"/>
+</archimate:FlowRelationship>

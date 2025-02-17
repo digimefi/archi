@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="hallinnoi"
+    id="id-38c6d4cacc354269ba17e05b37e9ed58"
+    directed="true">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-6c012702a7cf4747a10c8bf73abbf843.xml#id-6c012702a7cf4747a10c8bf73abbf843"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-15599d560fa94852ae095753abd2c753.xml#id-15599d560fa94852ae095753abd2c753"/>
+</archimate:AssociationRelationship>

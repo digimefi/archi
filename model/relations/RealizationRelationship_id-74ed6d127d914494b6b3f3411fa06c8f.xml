@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Myöntää"
+    id="id-74ed6d127d914494b6b3f3411fa06c8f">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-2cac1cda48664ec98de00dc4184456a6.xml#id-2cac1cda48664ec98de00dc4184456a6"/>
+  <target
+      xsi:type="archimate:CourseOfAction"
+      href="CourseOfAction_id-cbaf0673446a4c11b538d860f2c4f759.xml#id-cbaf0673446a4c11b538d860f2c4f759"/>
+</archimate:RealizationRelationship>

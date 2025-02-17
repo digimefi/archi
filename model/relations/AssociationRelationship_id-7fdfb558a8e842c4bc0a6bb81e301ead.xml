@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digitoidaan"
+    id="id-7fdfb558a8e842c4bc0a6bb81e301ead"
+    directed="true">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-8814a1fd487142789dc9a64024f68ae1.xml#id-8814a1fd487142789dc9a64024f68ae1"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-4333b86e3e4a49ef84295b1b11d1c2f6.xml#id-4333b86e3e4a49ef84295b1b11d1c2f6"/>
+</archimate:AssociationRelationship>

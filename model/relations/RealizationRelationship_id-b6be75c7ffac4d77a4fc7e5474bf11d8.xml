@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pyytää lausunnon"
+    id="id-b6be75c7ffac4d77a4fc7e5474bf11d8">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-2cac1cda48664ec98de00dc4184456a6.xml#id-2cac1cda48664ec98de00dc4184456a6"/>
+  <target
+      xsi:type="archimate:CourseOfAction"
+      href="CourseOfAction_id-babf88c9bdf043a7b5b67bfac1d0c3fc.xml#id-babf88c9bdf043a7b5b67bfac1d0c3fc"/>
+</archimate:RealizationRelationship>

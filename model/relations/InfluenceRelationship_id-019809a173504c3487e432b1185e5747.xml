@@ -1,0 +1,12 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tuottaa"
+    id="id-019809a173504c3487e432b1185e5747">
+  <source
+      xsi:type="archimate:ValueStream"
+      href="ValueStream_id-71e7cb6caf864039b0e8824ca5b45c77.xml#id-71e7cb6caf864039b0e8824ca5b45c77"/>
+  <target
+      xsi:type="archimate:Value"
+      href="Value_id-23866a00b48943899c47396befc9eadc.xml#id-23866a00b48943899c47396befc9eadc"/>
+</archimate:InfluenceRelationship>

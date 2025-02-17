@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="välittää"
+    id="id-c76165ff937d47c4a98a215baa9b9144"
+    accessType="1">
+  <source
+      xsi:type="archimate:BusinessCollaboration"
+      href="BusinessCollaboration_id-85cb668cd865439fa339855ccb56bda0.xml#id-85cb668cd865439fa339855ccb56bda0"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-fbce5c29fd09473982b9b826329ebd50.xml#id-fbce5c29fd09473982b9b826329ebd50"/>
+</archimate:AccessRelationship>

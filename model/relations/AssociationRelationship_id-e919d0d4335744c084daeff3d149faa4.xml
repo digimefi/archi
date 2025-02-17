@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Toteutuu"
+    id="id-e919d0d4335744c084daeff3d149faa4"
+    directed="true">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-ed0bbac935fe4334a4136af956139ac9.xml#id-ed0bbac935fe4334a4136af956139ac9"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-fa3d0b5d5c86402b8b8fa94cae938036.xml#id-fa3d0b5d5c86402b8b8fa94cae938036"/>
+</archimate:AssociationRelationship>

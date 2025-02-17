@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tietopaketit"
+    id="id-96ce39a5c10848c2bb5492982624d204">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-fdb0812b7d4b433983f8ed1d1d2923ff.xml#id-fdb0812b7d4b433983f8ed1d1d2923ff"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-2a6271d70b8c4a3fb26d95f788c464a3.xml#id-2a6271d70b8c4a3fb26d95f788c464a3"/>
+</archimate:FlowRelationship>

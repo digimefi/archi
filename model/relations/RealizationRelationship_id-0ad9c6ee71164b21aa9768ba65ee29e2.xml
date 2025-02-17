@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vahvistaa"
+    id="id-0ad9c6ee71164b21aa9768ba65ee29e2">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-2cac1cda48664ec98de00dc4184456a6.xml#id-2cac1cda48664ec98de00dc4184456a6"/>
+  <target
+      xsi:type="archimate:CourseOfAction"
+      href="CourseOfAction_id-a9ff3d961eb4447983711c1c60a1eacf.xml#id-a9ff3d961eb4447983711c1c60a1eacf"/>
+</archimate:RealizationRelationship>

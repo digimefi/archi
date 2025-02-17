@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Hyödyntää"
+    id="id-36ad791d3a3240838ed11d329f25b124">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-16668215576642cb8ed0564091c9e188.xml#id-16668215576642cb8ed0564091c9e188"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-fbce5c29fd09473982b9b826329ebd50.xml#id-fbce5c29fd09473982b9b826329ebd50"/>
+</archimate:AccessRelationship>

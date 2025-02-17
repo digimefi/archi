@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pysyvät tunnisteet"
+    id="id-9167dc419c0e4c6db3cf5ce24d3b84a5">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-7dd7aad8d6bf46b794171b24ddc5a3b5.xml#id-7dd7aad8d6bf46b794171b24ddc5a3b5"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-d1a050b761034d33861d9491f6996551.xml#id-d1a050b761034d33861d9491f6996551"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Toteuttaa"
+    id="id-f360d6465f0f4793b8c0228ccd6bbcfc">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-b27480b9421045ae81d33f57b86fe214.xml#id-b27480b9421045ae81d33f57b86fe214"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-55f2dbf1908b42189139c55925f1a6ab.xml#id-55f2dbf1908b42189139c55925f1a6ab"/>
+</archimate:RealizationRelationship>

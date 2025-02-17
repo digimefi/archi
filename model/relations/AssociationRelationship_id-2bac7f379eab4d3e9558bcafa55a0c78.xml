@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Yksilöidään"
+    id="id-2bac7f379eab4d3e9558bcafa55a0c78"
+    directed="true">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-626ccd34446345318a9d12dac9173071.xml#id-626ccd34446345318a9d12dac9173071"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-8d4f661c18a242f3b6dc5b99f06be24d.xml#id-8d4f661c18a242f3b6dc5b99f06be24d"/>
+</archimate:AssociationRelationship>

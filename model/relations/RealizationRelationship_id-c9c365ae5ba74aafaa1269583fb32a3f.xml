@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ohjaa"
+    id="id-c9c365ae5ba74aafaa1269583fb32a3f">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-d8e34f3d52604026b63956879cc40486.xml#id-d8e34f3d52604026b63956879cc40486"/>
+  <target
+      xsi:type="archimate:CourseOfAction"
+      href="CourseOfAction_id-ae975b74e04c487ba073c27639fd99e5.xml#id-ae975b74e04c487ba073c27639fd99e5"/>
+</archimate:RealizationRelationship>
