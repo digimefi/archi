@@ -1,0 +1,12 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="koostuu"
+    id="id-87307eac359e4f0f9fbdc738935a7dfe">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-019814d47a364205946d89c052142389.xml#id-019814d47a364205946d89c052142389"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-d0e3b1d6f0504933a38bb17472cdceff.xml#id-d0e3b1d6f0504933a38bb17472cdceff"/>
+</archimate:CompositionRelationship>

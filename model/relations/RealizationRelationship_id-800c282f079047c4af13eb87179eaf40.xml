@@ -1,6 +1,7 @@
 <archimate:RealizationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tuottaa"
     id="id-800c282f079047c4af13eb87179eaf40">
   <source
       xsi:type="archimate:Grouping"
