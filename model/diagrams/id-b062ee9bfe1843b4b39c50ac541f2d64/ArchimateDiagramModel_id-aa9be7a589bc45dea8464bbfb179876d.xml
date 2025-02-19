@@ -1087,7 +1087,7 @@
     <children
         xsi:type="archimate:DiagramModelGroup"
         id="id-0b6e62ae2b5b4ff1aa61fc537294e70e"
-        name="Kyselypohjaiset arvotekijät"
+        name="Tilastolliset arvotekijät"
         textAlignment="1">
       <bounds
           x="24"
