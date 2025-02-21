@@ -1,6 +1,7 @@
 <archimate:CompositionRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="voi koostua"
     id="id-5f31cee02d854e12a8dc78e19c6f21fb">
   <source
       xsi:type="archimate:BusinessService"
