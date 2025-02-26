@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tukee"
+    id="id-7abb852a422f4604ba0d82e71884b215">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-ca79998389f446438323216767c545af.xml#id-ca79998389f446438323216767c545af"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-c680cae66c454c20a727a64e0c60f0af.xml#id-c680cae66c454c20a727a64e0c60f0af"/>
+</archimate:ServingRelationship>

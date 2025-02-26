@@ -26,12 +26,12 @@
         target="id-83ef57fe96624eac9230bcc64651ce33">
       <bendpoints
           startX="-8"
-          startY="-135"
+          startY="-75"
           endX="-198"
           endY="105"/>
       <bendpoints
           startX="172"
-          startY="-135"
+          startY="-75"
           endX="-18"
           endY="105"/>
       <archimateRelationship
@@ -40,7 +40,7 @@
     </sourceConnections>
     <bounds
         x="252"
-        y="396"
+        y="336"
         width="185"
         height="55"/>
     <archimateElement
@@ -66,7 +66,7 @@
     </sourceConnections>
     <bounds
         x="456"
-        y="396"
+        y="336"
         width="135"
         height="55"/>
     <archimateElement
@@ -82,13 +82,13 @@
         source="id-b6c28005d58445cb8f927b511971a320"
         target="id-83ef57fe96624eac9230bcc64651ce33">
       <bendpoints
-          startX="-8"
-          startY="-135"
+          startX="-7"
+          startY="-75"
           endX="174"
           endY="105"/>
       <bendpoints
-          startX="-200"
-          startY="-135"
+          startX="-199"
+          startY="-75"
           endX="-18"
           endY="105"/>
       <archimateRelationship
@@ -96,8 +96,8 @@
           href="SpecializationRelationship_id-acbda82c9d7441e18b03db03021116be.xml#id-acbda82c9d7441e18b03db03021116be"/>
     </sourceConnections>
     <bounds
-        x="613"
-        y="396"
+        x="612"
+        y="336"
         width="207"
         height="55"/>
     <archimateElement
@@ -118,7 +118,7 @@
     </sourceConnections>
     <bounds
         x="804"
-        y="492"
+        y="432"
         width="120"
         height="55"/>
     <archimateElement
@@ -138,8 +138,8 @@
           href="SpecializationRelationship_id-c7dfc5fd3b124cb8b2081916dcd0893b.xml#id-c7dfc5fd3b124cb8b2081916dcd0893b"/>
     </sourceConnections>
     <bounds
-        x="937"
-        y="492"
+        x="936"
+        y="432"
         width="120"
         height="55"/>
     <archimateElement
@@ -157,12 +157,12 @@
         target="id-83ef57fe96624eac9230bcc64651ce33">
       <bendpoints
           startX="-1"
-          startY="-135"
+          startY="-75"
           endX="390"
           endY="105"/>
       <bendpoints
           startX="-409"
-          startY="-135"
+          startY="-75"
           endX="-18"
           endY="105"/>
       <archimateRelationship
@@ -171,7 +171,7 @@
     </sourceConnections>
     <bounds
         x="852"
-        y="396"
+        y="336"
         width="146"
         height="55"/>
     <archimateElement

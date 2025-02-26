@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tukee kehitystä"
+    id="id-e9b514a1f48345cda2787292ec09f6c5">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-ca79998389f446438323216767c545af.xml#id-ca79998389f446438323216767c545af"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-c932f455f29346e5a39aa992df4b2a81.xml#id-c932f455f29346e5a39aa992df4b2a81"/>
+</archimate:ServingRelationship>

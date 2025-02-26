@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tutkimusdata"
+    id="id-a2a8d929e06645cc9d3ca99ed10a792c">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-bcd26d691a984d638291a52709fdf773.xml#id-bcd26d691a984d638291a52709fdf773"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-71ed20bea62d474ea14eefb7ea16c859.xml#id-71ed20bea62d474ea14eefb7ea16c859"/>
+</archimate:FlowRelationship>
