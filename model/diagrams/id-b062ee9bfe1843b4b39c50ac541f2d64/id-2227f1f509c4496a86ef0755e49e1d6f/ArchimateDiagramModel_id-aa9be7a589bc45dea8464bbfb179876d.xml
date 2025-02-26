@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Arvokartta"
+    name="Kulttuuriperinnön arvot"
     id="id-aa9be7a589bc45dea8464bbfb179876d">
   <children
       xsi:type="archimate:DiagramModelGroup"
