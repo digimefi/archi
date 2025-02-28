@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tietovirta"
+    id="id-cd565e2d6f3541048e46352036b2bd78">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-da933c5d93d642f28685fdf2b8cedbd1.xml#id-da933c5d93d642f28685fdf2b8cedbd1"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-fee754f4a6c44dea85ca7b3245147bd0.xml#id-fee754f4a6c44dea85ca7b3245147bd0"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Noudattaa"
+    id="id-b924292c7caf47868602b84a885795c7">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-3360de694c97411fa79de1012dd5b5ed.xml#id-3360de694c97411fa79de1012dd5b5ed"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-53dacef625834c87969436fb7b656eee.xml#id-53dacef625834c87969436fb7b656eee"/>
+</archimate:RealizationRelationship>

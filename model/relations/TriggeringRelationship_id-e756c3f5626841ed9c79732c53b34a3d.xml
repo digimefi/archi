@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Käyttää"
+    id="id-e756c3f5626841ed9c79732c53b34a3d">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-1f65dcacd94f4f44be1d75fc1e3382d2.xml#id-1f65dcacd94f4f44be1d75fc1e3382d2"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-36dc5b683b454fc2aca5517ac877dc03.xml#id-36dc5b683b454fc2aca5517ac877dc03"/>
+</archimate:TriggeringRelationship>

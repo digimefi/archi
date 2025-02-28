@@ -1,0 +1,12 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pohjautuu"
+    id="id-b9f56fb1f3e94a9880673b727e6df00c">
+  <source
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-53dacef625834c87969436fb7b656eee.xml#id-53dacef625834c87969436fb7b656eee"/>
+  <target
+      xsi:type="archimate:Value"
+      href="Value_id-3c9d8b8c6c0949269da30e87b896c6c1.xml#id-3c9d8b8c6c0949269da30e87b896c6c1"/>
+</archimate:InfluenceRelationship>
