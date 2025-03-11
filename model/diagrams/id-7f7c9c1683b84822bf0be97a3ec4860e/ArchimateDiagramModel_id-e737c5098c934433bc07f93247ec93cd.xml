@@ -688,9 +688,9 @@
         target="id-973695cd96ea435da4fad92c2d763adb">
       <bendpoints
           startX="66"
-          startY="462"
+          startY="450"
           endX="468"
-          endY="-3"/>
+          endY="-15"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_id-bfe366b797cd4a1881596a3c611f7721.xml#id-bfe366b797cd4a1881596a3c611f7721"/>

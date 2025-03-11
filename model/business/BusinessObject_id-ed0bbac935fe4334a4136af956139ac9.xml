@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Teos (F1)"
-    id="id-ed0bbac935fe4334a4136af956139ac9"/>
+    id="id-ed0bbac935fe4334a4136af956139ac9"
+    documentation="käsitteet tai käsitteiden yhdistelmät, jotka on tunnistettu taiteellisissa ja älyllisissä ilmaisuissa, kuten runoissa, tarinoissa tai musiikkikappaleissa. Tällaiset käsitteet voivat ilmetä alkuperäisen idean johdonmukaisen kehityksen aikana yhdeksi tai useammaksi ilmaisuksi, joita hallitsee alkuperäinen idea. Teos voi kehittyä yhden tai useamman toimijan toimesta samanaikaisesti tai ajan myötä. Teoksen sisältö on ideoita. Teoksella voi olla jäseniä, jotka ovat itse itsenäisiä teoksia."/>

@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Henkilö (RiC-E08)"
-    id="id-6c012702a7cf4747a10c8bf73abbf843"/>
+    id="id-6c012702a7cf4747a10c8bf73abbf843"
+    documentation="toimija joka on ihminen"/>

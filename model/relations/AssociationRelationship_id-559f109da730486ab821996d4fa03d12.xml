@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Esittää"
+    id="id-559f109da730486ab821996d4fa03d12"
+    directed="true">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-3cb212b4a6a342b9b897a1705457e433.xml#id-3cb212b4a6a342b9b897a1705457e433"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-3206a8a4c49a4c43bf072e2aa7a86f0f.xml#id-3206a8a4c49a4c43bf072e2aa7a86f0f"/>
+</archimate:AssociationRelationship>

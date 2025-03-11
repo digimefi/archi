@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Informaatio objekti (E73)"
-    id="id-7d6a7faa2bbb42acadeac07883332f93"/>
+    id="id-7d6a7faa2bbb42acadeac07883332f93"
+    documentation="aineettomat asiat, kuten runot, vitsit, tietoaineistot, kuvat, tekstit, multimediakohteet, menettelysäännöt, tietokoneohjelmakoodi, algoritmit tai matemaattiset kaavat, joilla on objektiivisesti tunnistettava rakenne ja jotka on asiakirjattu yksittäisinä yksikköinä"/>

@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ajanjakso (E52)"
-    id="id-b3bbcdf1088345789e0f98bec8cc2e95"/>
+    id="id-b3bbcdf1088345789e0f98bec8cc2e95"
+    documentation="kaikki ajalliset ulottuvuudet joille voidaan määritellä kesto, alku ja loppu"/>

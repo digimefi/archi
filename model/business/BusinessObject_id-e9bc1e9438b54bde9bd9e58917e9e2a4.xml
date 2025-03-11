@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Kappale (F5)"
-    id="id-e9bc1e9438b54bde9bd9e58917e9e2a4"/>
+    id="id-e9bc1e9438b54bde9bd9e58917e9e2a4"
+    documentation="teoksen ekspression manifestaatiota edustava kappale"/>

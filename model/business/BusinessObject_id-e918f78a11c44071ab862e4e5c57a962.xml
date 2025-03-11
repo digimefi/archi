@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Sijainti (E53)"
-    id="id-e918f78a11c44071ab862e4e5c57a962"/>
+    id="id-e918f78a11c44071ab862e4e5c57a962"
+    documentation="asian fyysinen ilmentymä tilassa (yleensä maapallon pinnalla) riippumatta ajallisista ilmiöistä ja aineesta"/>

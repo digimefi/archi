@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Elävä kulttuuriperintö"
-    id="id-d1218d58576346049a220844138e9a12"/>
+    name="Aineeton kulttuuriperintö"
+    id="id-d1218d58576346049a220844138e9a12"
+    documentation="elävää perintöä, jonka yhteisöt tunnistavat ja tunnustavat osaksi kulttuuriperintöään"/>

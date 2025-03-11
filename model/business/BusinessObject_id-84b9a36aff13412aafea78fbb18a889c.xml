@@ -1,5 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Kulttuuriperintö"
+    name="Kulttuuriperintöaineisto"
     id="id-84b9a36aff13412aafea78fbb18a889c"
-    documentation="Kulttuuriperintö tarkoittaa niitä menneisyydestä perittyjä voimavaroja niiden omistajasta riippumatta, jotka ihmisten mielestä kuvastavat heidän jatkuvasti muuttuvia arvojaan, uskomuksiaan, tietojaan ja perinteitään."/>
+    documentation="Tiettyyn aihekokonaisuuteen liittyvät yksittäiset asiat ja niistä muodostetut kokonaisuudet"/>

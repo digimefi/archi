@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digitoi"
+    id="id-1d7145719d884fbc9f491c8f834cb6f5"
+    directed="true">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-97c16c49943e410d93d024e2364c1f7f.xml#id-97c16c49943e410d93d024e2364c1f7f"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-c7b8c844e8fd4e32a254732090cb7c56.xml#id-c7b8c844e8fd4e32a254732090cb7c56"/>
+</archimate:AssociationRelationship>

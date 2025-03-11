@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Perintökohde (E27)"
-    id="id-15c090f67b67422bb87d4b546030590d"/>
+    name="Paikka (E27)"
+    id="id-15c090f67b67422bb87d4b546030590d"
+    documentation="asia, joka koostuu suhteellisen liikuttamattomissa olevasta materiasta ja on olemassa tietyssä sijainnissa ja tietyllä ajanhetkellä. Esimerkiksi ihmisien tai luonnon luomia muodostelmia maanpinnalla tai muilla taivaankappaleilla."/>

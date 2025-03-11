@@ -1,7 +1,7 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Digitaaliset alkuperäisaineistot"
+    name="Digitaaliset aineistot"
     id="id-651236b9bf054bf98f1ad8fd87da3ea7">
   <source
       xsi:type="archimate:BusinessService"

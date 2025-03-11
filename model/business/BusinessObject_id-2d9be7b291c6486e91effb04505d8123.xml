@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Biologinen objekti (E20)"
-    id="id-2d9be7b291c6486e91effb04505d8123"/>
+    id="id-2d9be7b291c6486e91effb04505d8123"
+    documentation="yksittäiset aineelliset objektit, jotka elävät, ovat eläneet tai ovat elävien organismien tuottamia"/>

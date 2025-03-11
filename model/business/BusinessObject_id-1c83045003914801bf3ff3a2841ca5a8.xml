@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Tapahtuma (E5)"
-    id="id-1c83045003914801bf3ff3a2841ca5a8"/>
+    id="id-1c83045003914801bf3ff3a2841ca5a8"
+    documentation="kulttuuristen, sosiaalisten tai fyysisten järjestelmien tilamuutokset"/>

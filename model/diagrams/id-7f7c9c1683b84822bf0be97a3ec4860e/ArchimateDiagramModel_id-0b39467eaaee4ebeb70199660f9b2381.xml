@@ -372,10 +372,10 @@
         id="id-4068832dd51c48d1bedd705f823db6d8"
         targetConnections="id-8c540c54fe8b4b5f9eeb27d30e956887">
       <bounds
-          x="1065"
-          y="44"
+          x="1056"
+          y="47"
           width="160"
-          height="55"/>
+          height="52"/>
       <archimateElement
           xsi:type="archimate:BusinessActor"
           href="BusinessActor_id-e20bf473c5e44bafa3c765812d0d13e8.xml#id-e20bf473c5e44bafa3c765812d0d13e8"/>
@@ -1010,9 +1010,9 @@
           source="id-ee534c43960647abb397b389cfa2f5f3"
           target="id-5c653192fa26432a9da71d106dc3bdd6">
         <bendpoints
-            startX="-1"
+            startX="-20"
             startY="105"
-            endX="822"
+            endX="821"
             endY="-99"/>
         <bendpoints
             startX="-745"
@@ -1029,15 +1029,15 @@
           source="id-ee534c43960647abb397b389cfa2f5f3"
           target="id-577cf03296a241bbaa0829cbf4f7f881">
         <bendpoints
-            startX="-3"
-            startY="-39"
-            endX="345"
-            endY="-39"/>
+            startX="-20"
+            startY="-51"
+            endX="394"
+            endY="-51"/>
         <bendpoints
-            startX="-315"
-            startY="-39"
-            endX="33"
-            endY="-39"/>
+            startX="-356"
+            startY="-51"
+            endX="58"
+            endY="-51"/>
         <archimateRelationship
             xsi:type="archimate:FlowRelationship"
             href="FlowRelationship_id-19e2ddd9bdb04b4c9773d5274c85273c.xml#id-19e2ddd9bdb04b4c9773d5274c85273c"/>
@@ -1045,7 +1045,7 @@
       <bounds
           x="456"
           y="360"
-          width="120"
+          width="157"
           height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessService"
@@ -1330,9 +1330,9 @@
           source="id-5c653192fa26432a9da71d106dc3bdd6"
           target="id-1950512129464ebd8c2980f4491214e2">
         <bendpoints
-            startX="894"
+            startX="953"
             startY="9"
-            endX="-32"
+            endX="12"
             endY="313"/>
         <archimateRelationship
             xsi:type="archimate:FlowRelationship"

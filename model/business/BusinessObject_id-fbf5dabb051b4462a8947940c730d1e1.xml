@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Fyysinen objekti (E18)"
-    id="id-fbf5dabb051b4462a8947940c730d1e1"/>
+    id="id-fbf5dabb051b4462a8947940c730d1e1"
+    documentation="aineelliset asiat, jotka ovat dokumentoida yksilöllisesti ja joilla on fyysiset rajat, jotka erottavat ne täysin objektiivisella tavalla muista asioista"/>

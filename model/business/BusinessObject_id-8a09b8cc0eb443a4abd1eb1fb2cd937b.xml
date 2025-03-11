@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Käsitteellinen merkityssisältö (E89)"
-    id="id-8a09b8cc0eb443a4abd1eb1fb2cd937b"/>
+    id="id-8a09b8cc0eb443a4abd1eb1fb2cd937b"
+    documentation="aineettomia kohteita, mukaan lukien mutta ei rajoittuen tarinoihin, juoniin, menettelyohjeisiin, algoritmeihin, fysiikan lakeihin tai kuvastoihin, jotka ovat tai edustavat jollain tavalla joukkoja väitteitä todellisista tai kuvitteellisista asioista ja jotka on dokumentoitu yksittäisinä yksikköinä tai toimivat keskustelun aiheina"/>

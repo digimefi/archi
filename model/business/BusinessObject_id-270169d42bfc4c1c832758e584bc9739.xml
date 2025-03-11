@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Mekanismi (RiC-E13)"
-    id="id-270169d42bfc4c1c832758e584bc9739"/>
+    id="id-270169d42bfc4c1c832758e584bc9739"
+    documentation="prosessi tai järjestelmä, jonka on luonut henkilö tai ryhmä ja joka suorittaa toimintoa."/>

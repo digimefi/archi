@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Tietue (RiC-E02)"
-    id="id-711db8892fb242f99f6ece57190743c6"/>
+    id="id-711db8892fb242f99f6ece57190743c6"
+    documentation="tietosisältö, joka on muotoiltu ja tallennettu vähintään kerran millä tahansa menetelmällä mihin tahansa järjestelmään millä tahansa pysyvällä ja palautettavissa olevassa muodossa toimijan ja aktiviteettien toimista"/>

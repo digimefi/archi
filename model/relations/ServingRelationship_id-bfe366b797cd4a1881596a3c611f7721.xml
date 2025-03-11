@@ -1,7 +1,7 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="osallistuu toimintaan"
+    name="järjestää"
     id="id-bfe366b797cd4a1881596a3c611f7721">
   <source
       xsi:type="archimate:BusinessActor"

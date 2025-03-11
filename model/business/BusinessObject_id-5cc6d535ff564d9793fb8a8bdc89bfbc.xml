@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Aktiviteetti (E7)"
-    id="id-5cc6d535ff564d9793fb8a8bdc89bfbc"/>
+    id="id-5cc6d535ff564d9793fb8a8bdc89bfbc"
+    documentation="toimijoiden tarkoituksellisesti suorittamat tilamuutoksia aiheuttavat toimet, jotka tapahtuvat kulttuurillisissa, sosiaalisissa tai fyysisissä järjestelmissä"/>

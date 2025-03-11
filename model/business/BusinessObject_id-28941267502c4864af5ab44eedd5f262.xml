@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Henkilö (E21)"
-    id="id-28941267502c4864af5ab44eedd5f262"/>
+    id="id-28941267502c4864af5ab44eedd5f262"
+    documentation="todelliset ja historialliset henkilöt, jotka ovat tai joiden voidaan väittää olleen olemassa"/>

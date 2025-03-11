@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Laillinen objekti (E72)"
-    id="id-48ddb40be4444b219243d91769a1c214"/>
+    id="id-48ddb40be4444b219243d91769a1c214"
+    documentation="aineellisia tai aineettomia asioita, joihin voidaan soveltaa oikeuksia kuten omistusoikeus tai käyttöoikeus"/>

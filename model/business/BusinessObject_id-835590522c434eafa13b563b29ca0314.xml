@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Tyyppi (E55)"
-    id="id-835590522c434eafa13b563b29ca0314"/>
+    id="id-835590522c434eafa13b563b29ca0314"
+    documentation="käsitteitä, joita merkitään sanastoista ja hallituista sanastoista käytetyillä termeillä, ja joita käytetään informaatio objektien kuvaamiseen ja luokitteluun."/>

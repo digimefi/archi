@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Laillinen toimija (E39)"
-    id="id-ebb48ce505f94ffb8b0fbab63416d77f"/>
+    id="id-ebb48ce505f94ffb8b0fbab63416d77f"
+    documentation="ihmiset tai organisaatiot, jotka voidaan yksilöidä lain piirissä toimivissa toimintaympäristöissä, ja joille voidaan asettaa oikeuksia tai velvollisuuksia"/>

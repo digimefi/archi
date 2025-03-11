@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Kulttuuriympäristö"
-    id="id-77c6f4947bcd4b6aa118215b461f7f9c"/>
+    name="Kulttuuriperintö-ympäristö"
+    id="id-77c6f4947bcd4b6aa118215b461f7f9c"
+    documentation="ihmisen ja luonnon vuorovaikutuksesta syntynyt ja muotoutunut ympäristö, joka on todettu kulttuurihistoriallisesti merkittäväksi&#xA;&#xA;https://sanastokeskus.fi/suomi.fi/kulttuuriymparistosanasto/kulttuuriymparisto.svg"/>
