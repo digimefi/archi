@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Digitoitu objekti"
-    id="id-97c16c49943e410d93d024e2364c1f7f"/>
+    id="id-97c16c49943e410d93d024e2364c1f7f"
+    documentation="digitaalinen objekti, jotka muodostetaan digitoimalla fyysisiä objekteja"/>

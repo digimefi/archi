@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Kulttuuriperintö-aineisto"
-    id="id-57b54ce3eb0f49459303ca73a1d6e0aa"/>
+    id="id-57b54ce3eb0f49459303ca73a1d6e0aa"
+    documentation="kulttuuriperinnöllisesti merkittäviä aineistoja eri yhteiskunnan, kulttuurin ja taiteen alueilta"/>

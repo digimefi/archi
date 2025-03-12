@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Kuvailutieto"
-    id="id-41c2c1bdb5c84022afab30ffa6f5e9b3"/>
+    id="id-41c2c1bdb5c84022afab30ffa6f5e9b3"
+    documentation="sisältöä kuvaavaa ja teknistä tietoa, joka on välttämätöntä aineiston alkuperän, luotettavuuden, käytettävyyden, käytön ja uudelleenkäytön kannalta"/>

@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Fyysinen objekti"
-    id="id-9dd58aa192dc4240a4c51aa7b36229cd"/>
+    id="id-9dd58aa192dc4240a4c51aa7b36229cd"
+    documentation="sisältää kaikki pysyvät fyysiset asiat ja esineet"/>

@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Kulttuuriperintö metamalli"
+    name="Kulttuuriperintö ylätason malli"
     id="id-9aa1cbbea5ab433d98fae4a6714298e2">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -379,7 +379,7 @@
           href="SpecializationRelationship_id-39c7348a60524bf7b860928ece3376e0.xml#id-39c7348a60524bf7b860928ece3376e0"/>
     </sourceConnections>
     <bounds
-        x="1356"
+        x="1380"
         y="678"
         width="160"
         height="55"/>

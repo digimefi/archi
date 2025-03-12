@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Entiteetti"
-    id="id-fc60931a60a14adea6fe01cec95b69af"/>
+    id="id-fc60931a60a14adea6fe01cec95b69af"
+    documentation="kaikki aineettomat ja aineelliset asiat joita voidaan yksilöidä objekteina ja määritellä käsitteinä"/>
