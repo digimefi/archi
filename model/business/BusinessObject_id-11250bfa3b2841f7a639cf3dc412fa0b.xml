@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Video"
-    id="id-11250bfa3b2841f7a639cf3dc412fa0b"/>
+    name="Videoaineisto"
+    id="id-11250bfa3b2841f7a639cf3dc412fa0b"
+    documentation="Videomuotoinen kulttuuriperintöaineisto"/>

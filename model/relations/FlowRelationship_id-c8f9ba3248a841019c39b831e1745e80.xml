@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kulttuuriperintöaineistot ja kuvailutiedot"
+    id="id-c8f9ba3248a841019c39b831e1745e80">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-9684a1e86fc343d8b0f67b37a50b4d46.xml#id-9684a1e86fc343d8b0f67b37a50b4d46"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-d5c0f69b0fa249beb21f02126c9a04a7.xml#id-d5c0f69b0fa249beb21f02126c9a04a7"/>
+</archimate:FlowRelationship>

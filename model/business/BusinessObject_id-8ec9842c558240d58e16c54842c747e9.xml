@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Audio"
-    id="id-8ec9842c558240d58e16c54842c747e9"/>
+    name="Ääniaineisto"
+    id="id-8ec9842c558240d58e16c54842c747e9"
+    documentation="Äänimuotoinen kulttuuriperintöaineisto"/>

@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Luonnonperintö"
-    id="id-17fb30ce71314fd992ae29b501466451"/>
+    id="id-17fb30ce71314fd992ae29b501466451"
+    documentation="biodiversiteetin kaikkien osien kokonaisuudet, mukaan lukien kasvisto ja eläimistö, ekosysteemit ja geologiset rakenteet"/>

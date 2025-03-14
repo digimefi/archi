@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Multimedia"
-    id="id-03aceb598606464dbec5ab8402f4481e"/>
+    name="Multimedia-aineisto"
+    id="id-03aceb598606464dbec5ab8402f4481e"
+    documentation="Monta mediaformaattia yhdistävä aineisto"/>

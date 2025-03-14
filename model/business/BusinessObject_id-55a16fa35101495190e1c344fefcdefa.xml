@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Kolmiulotteinen objekti"
-    id="id-55a16fa35101495190e1c344fefcdefa"/>
+    name="Kolmiulotteinen aineisto"
+    id="id-55a16fa35101495190e1c344fefcdefa"
+    documentation="Kolmiulotteinen kulttuuriperintöaineisto"/>

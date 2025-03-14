@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Digitaalinen kulttuuriperintö"
-    id="id-3cb212b4a6a342b9b897a1705457e433"/>
+    id="id-3cb212b4a6a342b9b897a1705457e433"
+    documentation="Digitaalisessa muodossa oleva kulttuuriperintö&#xA;&#xA;Huom! Digitaalinen kulttuuriperintö on myös aineellista (bittejä eri tallennusmedioilla), mutta se ei ole aineellista kulttuuriperintöä perinteisessä mielessä, koska sitä ei ole välttämättä luotu alunperin analogisessa muodossa."/>
