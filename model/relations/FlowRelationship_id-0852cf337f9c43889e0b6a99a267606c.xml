@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Paikkatiedot"
+    id="id-0852cf337f9c43889e0b6a99a267606c">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-a807a40107274fcc8e98b555e3fca687.xml#id-a807a40107274fcc8e98b555e3fca687"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-13998aa725144d2a91adefdcf018db4a.xml#id-13998aa725144d2a91adefdcf018db4a"/>
+</archimate:FlowRelationship>

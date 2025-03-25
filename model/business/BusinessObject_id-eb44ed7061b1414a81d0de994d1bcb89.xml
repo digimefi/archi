@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tapahtuma (premis:Event)"
+    id="id-eb44ed7061b1414a81d0de994d1bcb89"
+    documentation="toimenpiteet, jotka on suoritettu tietoja pitkäaikaissäilyttävän tietojärjestelmän sisällä tai sen ulkopuolella ja jotka vaikuttavat sen kykyyn säilyttää objektit pitkällä aikavälillä"/>

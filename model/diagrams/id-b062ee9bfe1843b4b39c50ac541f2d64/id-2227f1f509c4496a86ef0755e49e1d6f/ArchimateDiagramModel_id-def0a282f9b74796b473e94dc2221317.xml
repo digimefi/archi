@@ -7,10 +7,6 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-88cd030485a147158952804411479c97">
     <sourceConnections
-        id="id-0f4fd530243446a6bb44e85a7e35d459"
-        source="id-88cd030485a147158952804411479c97"
-        target="id-ed74e60e7eac48ac800c5ecf33410eb5"/>
-    <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-092e0281a15d43d984666eb940240e08"
         source="id-88cd030485a147158952804411479c97"
@@ -167,19 +163,6 @@
     <archimateElement
         xsi:type="archimate:Value"
         href="Value_id-f8693d376ebf45a8a46c1d5eee7f471c.xml#id-f8693d376ebf45a8a46c1d5eee7f471c"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelReference"
-      id="id-ed74e60e7eac48ac800c5ecf33410eb5"
-      targetConnections="id-0f4fd530243446a6bb44e85a7e35d459">
-    <bounds
-        x="432"
-        y="24"
-        width="120"
-        height="55"/>
-    <referencedModel
-        xsi:type="archimate:ArchimateDiagramModel"
-        href="ArchimateDiagramModel_id-aa9be7a589bc45dea8464bbfb179876d.xml#id-aa9be7a589bc45dea8464bbfb179876d"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
