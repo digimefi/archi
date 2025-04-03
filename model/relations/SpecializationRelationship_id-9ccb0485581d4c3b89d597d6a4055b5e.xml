@@ -1,0 +1,12 @@
+<archimate:SpecializationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="erikoistuminen"
+    id="id-9ccb0485581d4c3b89d597d6a4055b5e">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-9222e83980924e1396059b5c4e5973c0.xml#id-9222e83980924e1396059b5c4e5973c0"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-f7367535ef1b45b4a3353fba675eaa9d.xml#id-f7367535ef1b45b4a3353fba675eaa9d"/>
+</archimate:SpecializationRelationship>

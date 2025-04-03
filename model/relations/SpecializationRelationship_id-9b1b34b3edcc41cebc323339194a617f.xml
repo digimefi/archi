@@ -1,0 +1,12 @@
+<archimate:SpecializationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="periytyy"
+    id="id-9b1b34b3edcc41cebc323339194a617f">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-83f10daa760e4557b64435c5d2b8cd68.xml#id-83f10daa760e4557b64435c5d2b8cd68"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-f0dbe7ddb6fe4550b8a7951aa72128db.xml#id-f0dbe7ddb6fe4550b8a7951aa72128db"/>
+</archimate:SpecializationRelationship>

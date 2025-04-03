@@ -1,7 +1,7 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="tukee"
+    name="Tukee"
     id="id-f54ad53270df40d0902f27fe0f5a7d28">
   <source
       xsi:type="archimate:BusinessService"

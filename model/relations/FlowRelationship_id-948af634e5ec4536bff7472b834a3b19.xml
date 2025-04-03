@@ -1,7 +1,7 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Kuvailutietoja (LOD)"
+    name="Kuvailutietoja"
     id="id-948af634e5ec4536bff7472b834a3b19">
   <source
       xsi:type="archimate:BusinessService"

@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Organisaatio?"
-    id="id-55fbecae1a3f419683cc80d34cce5a95"/>
+    name="Ryhmä (E74)"
+    id="id-55fbecae1a3f419683cc80d34cce5a95"
+    documentation="Joukko toimijoita jotka muodostavat organisaation"/>
