@@ -1,0 +1,12 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="koostuu"
+    id="id-e20e9126bab541e58aa98ecc081cf647">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-0e656cd8ed9d40f89fa04c0ce49d5716.xml#id-0e656cd8ed9d40f89fa04c0ce49d5716"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-0fb8dd2ccc014ed8a70f78e90b1355d5.xml#id-0fb8dd2ccc014ed8a70f78e90b1355d5"/>
+</archimate:AggregationRelationship>

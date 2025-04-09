@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="luo"
+    id="id-7b58c1ad86b148e98f99bc39bfa1fc0a">
+  <source
+      xsi:type="archimate:BusinessCollaboration"
+      href="BusinessCollaboration_id-1882fb38ab024119be451e948c265005.xml#id-1882fb38ab024119be451e948c265005"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-6a01d536d17b4194b073bca1917a424e.xml#id-6a01d536d17b4194b073bca1917a424e"/>
+</archimate:AccessRelationship>

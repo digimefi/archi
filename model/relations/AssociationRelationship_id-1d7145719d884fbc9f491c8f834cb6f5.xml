@@ -1,7 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Digitoi"
+    name="digitoi"
     id="id-1d7145719d884fbc9f491c8f834cb6f5"
     directed="true">
   <source

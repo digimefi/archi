@@ -1,7 +1,7 @@
 <archimate:AccessRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Hyödyntää"
+    name="hyödyntää"
     id="id-36ad791d3a3240838ed11d329f25b124">
   <source
       xsi:type="archimate:BusinessActor"

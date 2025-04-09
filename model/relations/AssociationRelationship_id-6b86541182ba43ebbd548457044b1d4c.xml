@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="edustaa"
+    id="id-6b86541182ba43ebbd548457044b1d4c"
+    directed="true">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-2ffde20de65c44db8da70297845636c6.xml#id-2ffde20de65c44db8da70297845636c6"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-0167a970bbb14efa87f5f89dba449523.xml#id-0167a970bbb14efa87f5f89dba449523"/>
+</archimate:AssociationRelationship>

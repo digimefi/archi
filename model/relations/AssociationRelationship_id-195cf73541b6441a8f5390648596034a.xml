@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="voi kuvailla"
+    id="id-195cf73541b6441a8f5390648596034a"
+    directed="true">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-596e4058b11f465bb42fd557eb060675.xml#id-596e4058b11f465bb42fd557eb060675"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-52e04e412ba64ce98e00da0e691fec65.xml#id-52e04e412ba64ce98e00da0e691fec65"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="arvonmääritys"
+    id="id-cc843c8de45c4fc388378d5fdbe6f090">
+  <source
+      xsi:type="archimate:BusinessCollaboration"
+      href="BusinessCollaboration_id-8f08abf7042a413e8edbe1247537151a.xml#id-8f08abf7042a413e8edbe1247537151a"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-6a01d536d17b4194b073bca1917a424e.xml#id-6a01d536d17b4194b073bca1917a424e"/>
+</archimate:AccessRelationship>

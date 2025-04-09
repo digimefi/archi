@@ -476,15 +476,6 @@
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-8af53b8effc3429683bdf9eb02535071"
-          source="id-5cbf7a8a33894771a19615c8890d5c1c"
-          target="id-2e3cd2aeba234d0f90b0ef79eb4d8745">
-        <archimateRelationship
-            xsi:type="archimate:CompositionRelationship"
-            href="CompositionRelationship_id-0876ed4c2309466480cd1506c260447e.xml#id-0876ed4c2309466480cd1506c260447e"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-6794fcc4e76a49fbbdf856d87d69e6cc"
           source="id-5cbf7a8a33894771a19615c8890d5c1c"
           target="id-0408db8c4fcf4cd4853ffe9033f5e707">
@@ -502,9 +493,9 @@
           id="id-b4372203667944758da7522f2c55cb98"
           targetConnections="id-b41baf48904643b9a1e770f8dde347f9">
         <bounds
-            x="240"
+            x="36"
             y="36"
-            width="181"
+            width="217"
             height="55"/>
         <archimateElement
             xsi:type="archimate:ValueStream"
@@ -515,9 +506,9 @@
           id="id-fd082d4303b94d459eee576393af5cd0"
           targetConnections="id-72f5931b9ba94ea48dedcf6f5fe6a9e2 id-88c5492d56154f04bbeb50d20d285dcb id-5e4bbe55321d454db3fe2a5eef34f485 id-5100fe33a4f2469f8d07082eac981880">
         <bounds
-            x="432"
+            x="324"
             y="35"
-            width="181"
+            width="217"
             height="58"/>
         <archimateElement
             xsi:type="archimate:ValueStream"
@@ -525,23 +516,10 @@
       </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
-          id="id-2e3cd2aeba234d0f90b0ef79eb4d8745"
-          targetConnections="id-8af53b8effc3429683bdf9eb02535071">
-        <bounds
-            x="36"
-            y="36"
-            width="193"
-            height="55"/>
-        <archimateElement
-            xsi:type="archimate:ValueStream"
-            href="ValueStream_id-c197b765d3ab4b879255779e8232b44a.xml#id-c197b765d3ab4b879255779e8232b44a"/>
-      </children>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
           id="id-0408db8c4fcf4cd4853ffe9033f5e707"
           targetConnections="id-6794fcc4e76a49fbbdf856d87d69e6cc">
         <bounds
-            x="624"
+            x="612"
             y="36"
             width="205"
             height="55"/>
