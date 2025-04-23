@@ -39,15 +39,6 @@
       id="id-99fee29a3a884ee48cdb13e2befb84bc">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-7f13fc4870e646b1a2e1ba31a675281e"
-        source="id-99fee29a3a884ee48cdb13e2befb84bc"
-        target="id-0d2646695a2e4a4498ec1acb217dc213">
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_id-2dc02be0514d4337993d2e611cc10ede.xml#id-2dc02be0514d4337993d2e611cc10ede"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-aae61720abf742439753fbd64c79c191"
         source="id-99fee29a3a884ee48cdb13e2befb84bc"
         target="id-06cd9f3fb41a45da858977d47b13c375">
@@ -64,6 +55,20 @@
       <archimateRelationship
           xsi:type="archimate:SpecializationRelationship"
           href="SpecializationRelationship_id-6f8c7f2b21714200a4ce836f30b10c81.xml#id-6f8c7f2b21714200a4ce836f30b10c81"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-2411345a7b8f4d0c9c352c709e00a920"
+        source="id-99fee29a3a884ee48cdb13e2befb84bc"
+        target="id-0d2646695a2e4a4498ec1acb217dc213">
+      <bendpoints
+          startX="-5"
+          startY="57"
+          endX="-5"
+          endY="-51"/>
+      <archimateRelationship
+          xsi:type="archimate:AggregationRelationship"
+          href="AggregationRelationship_id-c728fe8f425b4a98af23cbb74eb22ad5.xml#id-c728fe8f425b4a98af23cbb74eb22ad5"/>
     </sourceConnections>
     <bounds
         x="492"
@@ -99,7 +104,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-0d2646695a2e4a4498ec1acb217dc213"
-      targetConnections="id-36d06691e6f24b308d7e03674f1f70bd id-9a46a4a28cf34e6ea4eb6d518d1d0054 id-bb9960fa886147c0a431fea873a1f7d2 id-7f13fc4870e646b1a2e1ba31a675281e">
+      targetConnections="id-36d06691e6f24b308d7e03674f1f70bd id-9a46a4a28cf34e6ea4eb6d518d1d0054 id-bb9960fa886147c0a431fea873a1f7d2 id-2411345a7b8f4d0c9c352c709e00a920">
     <bounds
         x="492"
         y="696"
