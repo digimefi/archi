@@ -1,7 +1,7 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Tietovirta"
+    name="Tietovirrat"
     id="id-803522e5e88346838c1e4765e64f7a87">
   <source
       xsi:type="archimate:BusinessService"
