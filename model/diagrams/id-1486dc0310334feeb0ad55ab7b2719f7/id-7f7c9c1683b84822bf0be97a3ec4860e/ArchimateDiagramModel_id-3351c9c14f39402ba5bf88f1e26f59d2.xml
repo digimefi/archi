@@ -1,42 +1,42 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Käsitemallit"
-    id="id-4004b1be24784ee18c112f7b74aa51aa">
+    name="Tietovirrat"
+    id="id-3351c9c14f39402ba5bf88f1e26f59d2">
   <children
       xsi:type="archimate:DiagramModelReference"
-      id="id-e1e0d0055d5f4aba89b103f091d9aa1e">
+      id="id-8f16995f1d554e3580a6cb37c886c9b8">
     <bounds
-        x="312"
-        y="192"
-        width="205"
-        height="55"/>
-    <referencedModel
-        xsi:type="archimate:ArchimateDiagramModel"
-        href="ArchimateDiagramModel_id-3b6a264bed234768a39a38d0093a2d30.xml#id-3b6a264bed234768a39a38d0093a2d30"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelReference"
-      id="id-2de37b758d2c4e6584cdb7363aab63cf">
-    <bounds
-        x="168"
-        y="276"
+        x="521"
+        y="288"
         width="120"
         height="55"/>
     <referencedModel
         xsi:type="archimate:ArchimateDiagramModel"
-        href="ArchimateDiagramModel_id-b44d255b845d42c28588eb4af5503c69.xml#id-b44d255b845d42c28588eb4af5503c69"/>
+        href="ArchimateDiagramModel_id-92e614f50b86418f91c68ed763dfc546.xml#id-92e614f50b86418f91c68ed763dfc546"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelReference"
-      id="id-81ac72f3762a49a8a292f8b5147ae8a4">
+      id="id-3602d3088ec246a5a0c0c93c80e9c719">
     <bounds
-        x="492"
-        y="276"
+        x="660"
+        y="288"
         width="229"
         height="55"/>
     <referencedModel
         xsi:type="archimate:ArchimateDiagramModel"
-        href="ArchimateDiagramModel_id-323becfd81af475eb728a5757b20e353.xml#id-323becfd81af475eb728a5757b20e353"/>
+        href="ArchimateDiagramModel_id-26e7114167b647349774e8361216ea97.xml#id-26e7114167b647349774e8361216ea97"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-237570524b084e9aa50dcf76ef317b93">
+    <bounds
+        x="372"
+        y="288"
+        width="120"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-cb87916fd3a64539bf0475bd9793e60a.xml#id-cb87916fd3a64539bf0475bd9793e60a"/>
   </children>
 </archimate:ArchimateDiagramModel>

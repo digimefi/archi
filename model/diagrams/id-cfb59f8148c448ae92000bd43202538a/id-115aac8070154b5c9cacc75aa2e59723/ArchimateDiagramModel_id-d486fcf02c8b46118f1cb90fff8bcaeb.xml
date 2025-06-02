@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Kulttuuriperintö ja teokset"
+    name="Kulttuuriperintö ja FRBR"
     id="id-d486fcf02c8b46118f1cb90fff8bcaeb">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

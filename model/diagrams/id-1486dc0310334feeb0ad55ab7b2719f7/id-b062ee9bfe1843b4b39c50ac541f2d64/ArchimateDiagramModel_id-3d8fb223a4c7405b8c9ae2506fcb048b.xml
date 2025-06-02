@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Arvovirtakartta"
+    name="Arvovirrat"
     id="id-3d8fb223a4c7405b8c9ae2506fcb048b">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

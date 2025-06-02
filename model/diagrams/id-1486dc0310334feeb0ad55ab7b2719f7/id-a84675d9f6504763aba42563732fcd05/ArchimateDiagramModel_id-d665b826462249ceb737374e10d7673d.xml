@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Finna käyttöönotto"
+    name="Finna ydinprosessit"
     id="id-d665b826462249ceb737374e10d7673d">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

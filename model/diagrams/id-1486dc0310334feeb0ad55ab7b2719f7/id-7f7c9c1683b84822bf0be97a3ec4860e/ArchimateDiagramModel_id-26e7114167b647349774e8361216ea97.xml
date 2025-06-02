@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Tietovirrat tutkimusinfrastruktuureihin"
+    name="Tietovirrat infrastruktuureihin"
     id="id-26e7114167b647349774e8361216ea97">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Palvelut"
+    name="Arvovirrat ja palvelut"
     id="id-d4bc39b88ea74b14aa10c6857d4b9ad1">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

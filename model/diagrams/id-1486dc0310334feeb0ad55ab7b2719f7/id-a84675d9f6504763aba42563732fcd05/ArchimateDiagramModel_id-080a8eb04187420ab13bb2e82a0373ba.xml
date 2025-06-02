@@ -1,0 +1,30 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Prosessit"
+    id="id-080a8eb04187420ab13bb2e82a0373ba">
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-d6e9960058e24d43ae69ac3959968833">
+    <bounds
+        x="383"
+        y="408"
+        width="146"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-d665b826462249ceb737374e10d7673d.xml#id-d665b826462249ceb737374e10d7673d"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-55f2b3c5024e41119e8185a55856661f">
+    <bounds
+        x="564"
+        y="408"
+        width="133"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-ee11501fd9074c8e88e466b7f954e5e3.xml#id-ee11501fd9074c8e88e466b7f954e5e3"/>
+  </children>
+</archimate:ArchimateDiagramModel>
